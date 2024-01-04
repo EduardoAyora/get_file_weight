@@ -3,8 +3,8 @@
 /// Checks if you are awesome. Spoiler: you are.
 
 import 'stub_weight.dart'
-    if (dart.library.io) 'mobile_user_agent.dart'
-    if (dart.library.html) 'web_user_agent.dart';
+    if (dart.library.io) 'mobile_weight.dart'
+    if (dart.library.html) 'web_weight.dart';
 
 class FileWeight {
   final WeightImpl _userAgent;
