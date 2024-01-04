@@ -1,6 +1,6 @@
 name: get_file_weight
 description: Librería para obtener el peso de un XFile.
-version: 1.0.1
+version: 1.0.2
 # repository: https://github.com/my_org/my_repo
 
 environment:
